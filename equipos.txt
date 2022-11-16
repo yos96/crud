@@ -1,0 +1,11 @@
+1    Cruz azul 
+2    Pumas     
+3    Guadalajara
+4    America 
+5    Toluca  
+6    Coyotes
+7    Puebla
+8    Barcelona
+9    PSG
+10   Necaxa
+Valedores
